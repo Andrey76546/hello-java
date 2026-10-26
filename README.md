@@ -71,11 +71,11 @@ OS: Linux
 - fat JAR `target/hello-java.jar`: создан;
 - Docker image `hello-java:lab`: собран;
 - контейнер: завершился с кодом 0 и вывел ожидаемые Java 17/Linux;
-- GitHub Actions: [успешный запуск Java CI №1](https://github.com/Andrey76546/hello-java/actions/runs/40294162039).
+- GitHub Actions: [финальный успешный запуск Java CI](https://github.com/Andrey76546/hello-java/actions/runs/40294633151).
 
 ## Скриншот
 
-![Успешный Java CI в GitHub Actions](./screenshots/github-actions-success.png)
+![Успешный первый запуск Java CI в GitHub Actions](./screenshots/github-actions-success.png)
 
 ## Соответствие требованиям преподавателя
 
